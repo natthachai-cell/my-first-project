@@ -2,13 +2,13 @@
 
 A simple Node.js project to learn Git and GitHub.
 
-## Instalation
+## Installation
 
 ```bash
 npm install
 ```
 
-## Usuage
+## Usage
 
 ```bash
 npm start
@@ -17,8 +17,8 @@ npm start
 ## Features
 
 - Simple console output
-- MIT licenced
+- MIT licensed
 
 ## Contributing
 
-Pull requests are welcom!
+Pull requests are welcome!
